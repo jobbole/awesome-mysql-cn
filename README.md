@@ -11,6 +11,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 - 基于 awesome-sysadmin 资源列表，我们将对各个资源项进行编译整理。
 - 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
   - 《[Logstash：日志文件管理工具](http://hao.jobbole.com/logstash/)》
+  - 《[MyCli：支持自动补全和语法高亮的 MySQL 客户端](http://hao.jobbole.com/mycli-mysql/)》
 
 * * *
 
@@ -139,7 +140,7 @@ _前端和应用的 GUI_
 *   [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - 提供给数据库管理员和开发人员进行数据库设计和建模的集成工具环境;SQL 开发;数据库管理。
 *   [phpMyAdmin](http://www.phpmyadmin.net/home_page/) - 一个 PHP 写成的开源软件，意图对 web 上的 MySQL 进行管理。
 *   [SequelPro](https://github.com/sequelpro/sequelpro) - 一个 mac 下运行 MySQL 的数据库管理应用程序。
-*   [mycli](https://github.com/dbcli/mycli) - 一个带自动补全和语法高亮的终端版 MySQL 客户端
+*   [mycli](http://hao.jobbole.com/mycli-mysql/) - 一个带自动补全和语法高亮的终端版 MySQL 客户端
 
 ## HA
 
@@ -232,8 +233,9 @@ __顾名思义，新闻周刊_需要一个 email 地址。下面列出周刊只�
 *   [Weekly MySQL News](http://mysqlnewsletter.com/) - 非官方的 MySQL新闻摘要，包含关于MySQL的各类信息。
 
 <h3 id="weibo-weixin">微信公众号</h3>
-* Linux爱好者：专注分享 Linux/Unix 相关内容，包括：工具资源、使用技巧、课程、书籍等。
-<br><img src="http://ww4.sinaimg.cn/small/63918611gw1epb2ca88pfj20460463ym.jpg" width=150 height=150>
 
 * 数据库开发者：专注分享数据库相关内容，包括：各种主流 DB 的最佳实践、数据库基础知识、性能优化、数据安全等。
 <br><img src="http://ww4.sinaimg.cn/small/63918611gw1epb2c5mk0jj2046046my6.jpg" width=150 height=150>
+
+* Linux爱好者：专注分享 Linux/Unix 相关内容，包括：工具资源、使用技巧、课程、书籍等。
+<br><img src="http://ww4.sinaimg.cn/small/63918611gw1epb2ca88pfj20460463ym.jpg" width=150 height=150>
