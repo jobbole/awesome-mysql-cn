@@ -1,6 +1,6 @@
 # MySQL 资源大全中文版
 
-我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[shlomi-noach](http://shlomi-noach.github.io/awesome-mysql/) 就是 shlomi-noach 发起维护的 MySQL 资源列表，内容包括：分析工具、备份、性能测试、配置、部署、GUI 等。
+我想很多程序员应该记得 GitHub 上有一个 Awesome - XXX 系列的资源整理。[awesome-mysql](http://shlomi-noach.github.io/awesome-mysql/) 就是 shlomi-noach 发起维护的 MySQL 资源列表，内容包括：分析工具、备份、性能测试、配置、部署、GUI 等。
 
 Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的介绍，如果有更详细的中文介绍，对相应开发者的帮助会更大。这也是我们发起这个开源项目的初衷。
 
