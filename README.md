@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[夏了夏天](http://www.jobbole.com/members/wx2793649263)、You
+- 贡献者：[夏了夏天](http://www.jobbole.com/members/wx2793649263/)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -81,8 +81,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Anemometer](https://github.com/box/Anemometer) - 一个 SQL 慢查询监控器。
 *   [innodb-ruby](https://github.com/jeremycole/innodb_ruby) - 一个对 InooDB 格式文件的解析器，用于 Ruby 语言。
 *   [innotop](https://github.com/innotop/innotop) - 一个具备多种特性和可扩展性的 MySQL 版 'top' 工具。
-*   [pstop](https://github.com/sjmudd/pstop) - 一个针对 MySQL 的类 top 程序，用于收集，汇总以及展示来自 performance_schema 的信息。
-*   [mysql-statsd](https://github.com/spilgames/mysql-statsd/) - 一个收集 MySQL 信息的 Python 守护进程，并通过 StatsD 发送到 Graphite。
+*   [pstop](https://github.com/sjmudd/ps-top) - 一个针对 MySQL 的类 top 程序，用于收集，汇总以及展示来自 performance_schema 的信息。
+*   [mysql-statsd](https://github.com/db-art/mysql-statsd) - 一个收集 MySQL 信息的 Python 守护进程，并通过 StatsD 发送到 Graphite。
 
 ## 备份
 
@@ -91,7 +91,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [MyDumper](https://launchpad.net/mydumper) - 逻辑的，并行的 MySQL 备份/转储工具。
 *   [MySQLDumper](http://www.mysqldumper.net/) - 基于 web 的开源备份工具-对于共享虚拟主机非常有用。
 *   [mysqldump-secure](https://github.com/cytopia/mysqldump-secure) - 将加密，压缩，日志，黑名单和 Nagios 监控一体化的 mysqldump 安全脚本。
-*   [Percona Xtrabackup](http://www.percona.com/doc/percona-xtrabackup) - 针对 MySQL 的一个开源热备份实用程序——在服务器的备份期间不会锁定你的数据库。
+*   [Percona Xtrabackup](https://www.percona.com/doc/percona-xtrabackup) - 针对 MySQL 的一个开源热备份实用程序——在服务器的备份期间不会锁定你的数据库。
 
 ## 性能测试
 
@@ -119,15 +119,15 @@ _多种编程语言的 MySQL 连接器_
 *   [Connector/Python](https://dev.mysql.com/downloads/connector/python/) - 一个对于 Python 平台和开发的标准化数据库驱动程序。
 *   [go-sql-driver](https://github.com/go-sql-driver/mysql) - 一个 Go 语言的轻量级、极速的 MySQL 驱动程序。
 *   [libAttachSQL](http://libattachsql.org/) - libAttachSQL 是 MySQL 服务器的一个轻量级，非阻塞的 C 语言 API。
-*   [MariaDB Java Client](https://mariadb.com/kb/en/mariadb/mariadb-java-client/) - 针对 Java 应用且经过 LGPL 许可的 MariaDB 客户端库。
-*   [MySQL-Python](http://sourceforge.net/projects/mysql-python/) - 一个 Python 语言的 MySQL 数据库连接器。
+*   [MariaDB Java Client](https://mariadb.com/kb/en/mariadb/mariadb-connector-j/) - 针对 Java 应用且经过 LGPL 许可的 MariaDB 客户端库。
+*   [MySQL-Python](https://sourceforge.net/projects/mysql-python/) - 一个 Python 语言的 MySQL 数据库连接器。
 *   [PHP mysqlnd](https://dev.mysql.com/downloads/connector/php-mysqlnd/) - 针对 MySQL 的 MySQL 本地驱动，弃用过时的 libmysql 基础驱动。
 
 ## 开发
 
 _支持 MySQL 相关开发的工具_
 
-*   [Flywaydb](http://flywaydb.org/getstarted/) - 数据库迁移;任意情况下轻松可靠地演变你的数据库版本。
+*   [Flywaydb](https://flywaydb.org/getstarted/) - 数据库迁移;任意情况下轻松可靠地演变你的数据库版本。
 *   [Liquibase](http://www.liquibase.org/) - 对你的数据库进行源代码控制。
 *   [Propagator](https://github.com/outbrain/propagator) - 集中模式和数据部署在一个多维拓扑上。
 
@@ -135,10 +135,10 @@ _支持 MySQL 相关开发的工具_
 
 _前端和应用的 GUI_
 
-*   [Adminer](http://www.adminer.org/) - 一个 PHP 编写的数据库管理工具。
+*   [Adminer](https://www.adminer.org/) - 一个 PHP 编写的数据库管理工具。
 *   [HeidiSQL](http://www.heidisql.com/) - Windows 下的 MySQL 图形化管理工具。
 *   [MySQL Workbench](http://dev.mysql.com/downloads/workbench/) - 提供给数据库管理员和开发人员进行数据库设计和建模的集成工具环境;SQL 开发;数据库管理。
-*   [phpMyAdmin](http://www.phpmyadmin.net/home_page/) - 一个 PHP 写成的开源软件，意图对 web 上的 MySQL 进行管理。
+*   [phpMyAdmin](https://www.phpmyadmin.net/) - 一个 PHP 写成的开源软件，意图对 web 上的 MySQL 进行管理。
 *   [SequelPro](https://github.com/sequelpro/sequelpro) - 一个 mac 下运行 MySQL 的数据库管理应用程序。
 *   [mycli](http://hao.jobbole.com/mycli-mysql/) - 一个带自动补全和语法高亮的终端版 MySQL 客户端
 
@@ -165,14 +165,14 @@ _MySQL 代理_
 _复制相关的软件_
 
 *   [orchestrator](https://github.com/outbrain/orchestrator) - 对 MySQL 复制拓扑管理并可视化的工具。
-*   [Tungsten Replicator](http://code.google.com/p/tungsten-replicator/) - MySQL 的一个高性能、开源、数据复制引擎。
+*   [Tungsten Replicator](https://code.google.com/archive/p/tungsten-replicator) - MySQL 的一个高性能、开源、数据复制引擎。
 
 ## 模式
 
 _附加模式_
 
-*   [common_schema](http://code.google.com/p/common-schema/) - MySQL DBA 的框架， 提供一个具有函数库、视图库和查询脚本的解释器。
-*   [sys](https://github.com/MarkLeith/mysql-sys) - 一个视图、函数和过程的集合，以帮助 MySQL 管理人员更加深入理解 MySQL 数据库的使用。
+*   [common_schema](https://code.google.com/archive/p/common-schema) - MySQL DBA 的框架， 提供一个具有函数库、视图库和查询脚本的解释器。
+*   [sys](https://github.com/mysql/mysql-sys) - 一个视图、函数和过程的集合，以帮助 MySQL 管理人员更加深入理解 MySQL 数据库的使用。
 
 ## 服务器
 
@@ -196,7 +196,7 @@ _工具包，通用脚本_
 
 *   [go-mysql](https://github.com/siddontang/go-mysql) - 一个纯 go 的库，用于处理 MySQL 的网络协议和复制。
 *   [MySQL Utilities](https://dev.mysql.com/downloads/utilities/) - 一个命令行实用程序的集合，Python 语言编写，用于维护和管理单一或多层的 MySQL。
-*   [Percona Toolkit](http://www.percona.com/software/percona-toolkit) - 一个先进的命令行工具集，用于执行对于 MySQL 服务器和系统过于困难或复杂的任务。
+*   [Percona Toolkit](https://www.percona.com/software/percona-toolkit) - 一个先进的命令行工具集，用于执行对于 MySQL 服务器和系统过于困难或复杂的任务。
 *   [openark kit](http://code.openark.org/forge/openark-kit) - 一组实用的工具，解决日常的维护工作，包括一些复杂的或需徒手操作的，用 Python 语言编写。
 *   [UnDROP](https://twindb.com/undrop-tool-for-innodb/) - 一个用来恢复删除或损坏的 InnoDB 表中数据的工具。
 
@@ -210,7 +210,7 @@ _围绕 MySQL 进行公开，经常性的大会。_
 
 *   [FOSDEM](https://fosdem.org/) - 一个软件开发人员见面、交流思想与协作的活动。每年在 Brussels 举行。提供 “MySQL & friends” 开发工作室。
 *   [MySQL Central](https://www.oracle.com/openworld/mysql/index.html) - Oracle 年度 MySQL 大会，是 Oracle Open World 的一部分。
-*   [Percona Live](http://www.percona.com/live/conferences) - MySQL 和 OpenStack 的重要会议。
+*   [Percona Live](https://www.percona.com/live/conferences) - MySQL 和 OpenStack 的重要会议。
 *   [SCALE](https://www.socallinuxexpo.org/) - 一个每年在南加州举办，由社区组织的 Linux 和 开源软件大会。由当地 MySQL社区组织并以MySQL社区日的名义举办。
 
 ## 电子书
