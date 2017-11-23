@@ -32,7 +32,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua)
 
-- 贡献者：[夏了夏天](http://www.jobbole.com/members/wx2793649263/)、You
+- 贡献者：[夏了夏天](http://www.jobbole.com/members/wx2793649263/)、[lovecn](https://github.com/lovecn)、You
 
 注：名单不分排名，不定期补充更新
 
@@ -218,6 +218,7 @@ _围绕 MySQL 进行公开，经常性的大会。_
 _MySQL 电子书以及相关材料。_
 
 *   [SQL-exercise](https://github.com/XD-DENG/SQL-exercise) - 包含几个 SQL 练习，包括模式描述，用 SQL 语句去建立模式，SQL 的问题及解决方案。以 wikibook SQL 练习为基础。
+*   [sqlfiddle](http://sqlfiddle.com/) - 在线执行 sql 测试。
 
 ## 媒体
 
