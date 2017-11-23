@@ -228,7 +228,7 @@ _公开，持续的视频和音频转播。这不包括会议演讲那令人恐�
 
 ## 新闻周刊
 
-__顾名思义，新闻周刊_需要一个 email 地址。下面列出周刊只需要一个 email 地址。_
+_顾名思义，新闻周刊_需要一个 email 地址。下面列出周刊只需要一个 email 地址。_
 
 *   [Weekly MySQL News](http://mysqlnewsletter.com/) - 非官方的 MySQL新闻摘要，包含关于MySQL的各类信息。
 
