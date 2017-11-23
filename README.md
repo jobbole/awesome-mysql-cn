@@ -199,7 +199,6 @@ _工具包，通用脚本_
 *   [Percona Toolkit](https://www.percona.com/software/percona-toolkit) - 一个先进的命令行工具集，用于执行对于 MySQL 服务器和系统过于困难或复杂的任务。
 *   [openark kit](http://code.openark.org/forge/openark-kit) - 一组实用的工具，解决日常的维护工作，包括一些复杂的或需徒手操作的，用 Python 语言编写。
 *   [UnDROP](https://twindb.com/undrop-tool-for-innodb/) - 一个用来恢复删除或损坏的 InnoDB 表中数据的工具。
-
 # 资源
 
 _在这个阶段，“资源”不包括网站，博客，幻灯片，演示视频等。这些资源列表的大小令人恐惧。_
@@ -240,3 +239,7 @@ _顾名思义，新闻周刊_需要一个 email 地址。下面列出周刊只�
 
 * Linux爱好者：专注分享 Linux/Unix 相关内容，包括：工具资源、使用技巧、课程、书籍等。
 <br><img src="http://ww4.sinaimg.cn/small/63918611gw1epb2ca88pfj20460463ym.jpg" width=150 height=150>
+
+## 网站
+
+*   [sqlfiddle](http://sqlfiddle.com/) - 在线执行 sql 测试。
