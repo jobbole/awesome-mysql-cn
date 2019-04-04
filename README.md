@@ -84,6 +84,19 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [pstop](https://github.com/sjmudd/ps-top) - 一个针对 MySQL 的类 top 程序，用于收集，汇总以及展示来自 performance_schema 的信息。
 *   [mysql-statsd](https://github.com/db-art/mysql-statsd) - 一个收集 MySQL 信息的 Python 守护进程，并通过 StatsD 发送到 Graphite。
 
+SQL语句优化建议
+
+*   [soar](https://github.com/XiaoMi/soar) - 小米开源的MySQLSQL优化器和重写器。
+
+SQL语句抓包工具
+
+*   [go-sniffer](https://github.com/40t/go-sniffer) - 抓包截取项目中的数据库请求并解析成相应的语句。
+
+SQL通用命令行
+
+*   [usql](https://github.com/xo/usql) - 360开源的SQL数据库的通用命令行（支持TiDB、Cassandra、MySQL、MSSQL、Sqlite等）。
+
+
 ## 备份
 
 备份/存储/恢复 工具
