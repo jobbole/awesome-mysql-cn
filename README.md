@@ -129,6 +129,7 @@ _支持 MySQL 相关开发的工具_
 
 *   [Flywaydb](https://flywaydb.org/getstarted/) - 数据库迁移;任意情况下轻松可靠地演变你的数据库版本。
 *   [Liquibase](http://www.liquibase.org/) - 对你的数据库进行源代码控制。
+*   [Rumba RDBM](https://www.dbinvent.com/) - Database schema migration tool, plain-SQL, and declarative schema definition supported.
 *   [Propagator](https://github.com/outbrain/propagator) - 集中模式和数据部署在一个多维拓扑上。
 
 ## GUI
